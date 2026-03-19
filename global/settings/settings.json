@@ -1,0 +1,11 @@
+{
+  "token": "",
+  "prefix": ".",
+  "activity": "",
+  "activityType": 0,
+  "guildID": "",
+  "logChannelId": "",
+  "mongoURI": "",
+  "ownerID": "",
+  "voiceID": ""
+}
